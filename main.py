@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 
 load_dotenv()
 
-st.set_page_config(page_title="SignUp", page_icon="✍️", layout="centered")
+st.set_page_config(page_title="SignUp", page_icon="🔒", layout="centered")
 
 # Initialize session state
 def initialize_session_state():
